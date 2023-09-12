@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakharpilipenko&show_icons=true&locale=en" alt="zakharpilipenko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakharpilipenko&" alt="zakharpilipenko" /></p>
+<p><img align="center" src="https://i.stack.imgur.com/RnG78.jpg)https://i.stack.imgur.com/RnG78.jpg" alt="zakharpilipenko" /></p>
