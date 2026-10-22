@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakharpilipenko&label=Profile%20views&color=0e75b6&style=flat" alt="zakharpilipenko" /> </p>
 
-- 🔭 I’m currently working on [Istudy-english](https://istudy-english.ru/game)
+- 🔭 I’m currently working on [museart](https://museart.ru/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **CI\CD**
 
-- 💬 Ask me about **React or VPS ubuntu deploying**
+- 💬 Ask me about **React\Next or VPS ubuntu deploying**
 
 - 📫 How to reach me **zaharpilipenko@gmail.com**
 
