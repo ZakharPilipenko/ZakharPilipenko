@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakharpilipenko&label=Profile%20views&color=0e75b6&style=flat" alt="zakharpilipenko" /> </p>
 
 - 🔭 I’m currently working on [museart](https://museart.ru/)
 
